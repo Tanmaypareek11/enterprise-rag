@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.faiss/
+faiss_index/
+*.pdf
+.env
+*.bin
+*.pt
+*.index
